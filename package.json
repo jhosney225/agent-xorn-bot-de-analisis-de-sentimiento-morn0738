@@ -1,0 +1,6 @@
+{
+  "name": "agent-xorn-bot-de-analisis-de-sentimiento-morn0738",
+  "version": "1.0.0",
+  "description": "Proyecto de Xorn [Gen12]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
